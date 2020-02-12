@@ -5,7 +5,7 @@ generation. Topics covered include descriptive statistics, central tendency, exp
 
 In addition, the exercises include fundamental concepts, solution techniques, modeling approaches and applications of decision analytics, with the purpose of introducing you to the most commonly used applied optimization, simulation, and decision analysis techniques for prescriptive analytics in business.
 
-**Objectives:***
+**Objectives:**
 - Perform statistical analyses.
 - Interpret and evaluate statistical information.
 - Prepare technical reports and use the language R for data analysis.
