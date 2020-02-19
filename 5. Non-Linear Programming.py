@@ -1,7 +1,10 @@
+############ Import Libraries #################
+
 import numpy as np
 from scipy.optimize import minimize
 from math import pi, sqrt
 
+################## Part 1 ###################
 #############################################
 # define objectives and constraints
 def objective(x, sign=1.0):
@@ -38,10 +41,8 @@ print('Total Raw Materials: ', round(objective(x),4))
 print('Total Cost: $', round(8000*x[0] + 5000*x[1],2))
 #############################################
 
-import numpy as np
-from scipy.optimize import minimize
-from math import pi, sqrt
 
+################## Part 2 ###################
 #############################################
 # define objectives and constraints
 def objective(x, sign=1.0):
