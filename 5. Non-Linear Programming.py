@@ -41,7 +41,6 @@ print('Total Raw Materials: ', round(objective(x),4))
 print('Total Cost: $', round(8000*x[0] + 5000*x[1],2))
 #############################################
 
-
 ################## Part 2 ###################
 #############################################
 # define objectives and constraints
